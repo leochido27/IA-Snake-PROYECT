@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  padding-top: 20px;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.display-5 {
+  font-size: 2.5rem;
+}
+
+.lead {
+  font-size: 1.25rem;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.bg-dark {
+  background-color: #343a40 !important;
+}
+
+.text-secondary {
+  color: #6c757d !important;
+}
+
+.text-white {
+  color: #fff !important;
+}
